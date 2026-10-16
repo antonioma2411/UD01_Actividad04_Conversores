@@ -21,31 +21,11 @@ JDK 17 o superior instalado.
 
 Gradle (mediante el wrapper ./gradlew incluido en el proyecto).
 
-# 🚀 Instalación y Ejecución
+# 🚀 Instalación 
 
 Clonar el repositorio:
 
 git clone https://github.com/antonioma2411/UD01_Actividad04_Conversores
-
-
-🖥️ Ejemplo de Uso en Consola
-
-======================================
-     CONVERSOR DE UNIDADES      
-======================================
-1. Conversión de Distancia
-2. Conversión de Temperatura
-3. Conversión de Divisas
-0. Salir
---------------------------------------
-Selecciona una opción: 3
-
---- Conversión de Divisas ---
-Monto: 100
-Moneda origen (EUR, USD, GBP): EUR
-Moneda destino (EUR, USD, GBP): USD
-
-Resultado: 100.00 EUR = 108.50 USD
 
 
 📄 Licencia
